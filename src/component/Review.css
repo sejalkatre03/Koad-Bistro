@@ -45,7 +45,7 @@
 }
 @media(min-width:991px){
 .review-sec{
-    background-image: url(./Images/Background/background.jpg);
+    background-image: url(/Images/Background/background.jpg);
    background-repeat: no-repeat;
    background-size: cover;
    height: 580px;

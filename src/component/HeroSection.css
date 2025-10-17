@@ -16,7 +16,7 @@ a {
     text-decoration: none;
 }
 .hero-sec{
-    background-image: url(./Images/Background/pizza2.jpg);
+    background-image: url(/Images/Background/pizza2.jpg);
     height: 560px;
      background-position: center;
     background-size: cover;

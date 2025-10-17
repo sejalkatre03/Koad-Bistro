@@ -1,6 +1,6 @@
 .pizza-sec{
     padding-top: 80px;
-    background-image: url(./Images/Background/pizza-bg.jpg);
+    background-image: url(/Images/Background/pizza-bg.jpg);
     height: 700px;
 }
 .pizza-sec h3{

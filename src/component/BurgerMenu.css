@@ -1,6 +1,6 @@
 .burger-sec{
     padding-top: 900px;
-    background-image: url(./Images/Background/burger-bg.jpg);
+    background-image: url(/Images/Background/burger-bg.jpg);
     height: 2000px;
 }
 .burger-sec h3{
