@@ -3,7 +3,7 @@ import Navigation from "./component/Navigation";
 import HeroSection from "./component/HeroSection";
 import HamBurger from "./component/HamBurger";
 import PopularDish from "./component/PopularDish";
-import Services from "./component/services";
+import Services from "./component/Services";
 import Reservation from "./component/Reservation";
 import PizzaMenu from "./component/PizzaMenu";
 import PastaMenu from "./component/PastaMenu";
