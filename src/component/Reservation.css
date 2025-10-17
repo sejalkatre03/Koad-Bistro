@@ -1,0 +1,53 @@
+.reserve-sec{
+    background-image: url(./Images/Background/imgi_48_ban2.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+.reserve-div{
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+}
+.reserve-div h3{
+    font-size: 35px;
+    font-weight: bold;
+}
+.reserve-div p{
+    font-size: 20px;
+    color: darkgray;
+    padding-bottom: 15px;
+}
+.reserve-div nav a{
+    font-size: 20px;
+    border: 1px solid orangered;
+    background-color: orangered;
+    padding: 15px;
+}
+.reserve-div nav a:hover{
+    background-color: white;
+    color: orangered;
+}
+
+@media(min-width:768px){
+.reserve-div{
+    padding-top: 100px;
+}
+    
+}
+
+@media(min-width:991px){
+.reserve-div h3{
+    font-size: 50px;
+    padding-bottom: 20px;
+} 
+.reserve-div p{
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 20px;
+} 
+.reserve-div{
+    padding-top: 80px;
+} 
+
+}
