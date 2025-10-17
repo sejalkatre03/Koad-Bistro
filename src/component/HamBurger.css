@@ -1,5 +1,5 @@
 .hamburger-sec{
-    background-image: url(./Images/Background/hamburger.jpg);
+    background-image: url(/Images/Background/hamburger.jpg);
     height: 400px;
      background-position: center;
     background-size: cover;
